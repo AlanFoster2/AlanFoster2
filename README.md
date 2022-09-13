@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlanFoster2
 - 👀 I’m interested in coding and blockchain
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and blockchain node
 - 💞️ I’m looking to collaborate on everything connected with blockchain
 - 📫 How to reach me, you can find me on twitter @CostaRi44596594 or discord: Alanfo99#4788
 
