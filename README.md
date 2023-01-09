@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning java and blockchain node
 - 💞️ I’m looking to collaborate on everything connected with blockchain
 - 📫 How to reach me, you can find me on twitter @CostaRi44596594 or discord: Alanfo99#4788
--   I like books and movies and serials
+-   I like books and movies and serials about motivation and personal developmebt 
+-   
 <!---
 AlanFoster2/AlanFoster2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
